@@ -1,0 +1,18 @@
+{
+    "blender.executables": [
+        {
+            "path": "c:/Program Files/Blender Foundation/Blender 3.4/blender.exe"
+        },
+    ],
+    "editor.trimAutoWhitespace": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.autoIndent": "full",
+    "editor.formatOnSave": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+}
